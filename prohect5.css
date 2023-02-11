@@ -1,0 +1,23 @@
+#but{
+    height: 30px;
+    width: 100px;
+    color: rgb(238, 2, 2);
+ background-color: rgb(223, 201, 201);
+}
+#num1{
+ width: 200px;
+ height: 50px;
+ color: rgb(0, 0, 0); 
+ background-color: rgba(221, 236, 5, 0.952);
+}
+#num3{
+ margin-right: 300px;
+ color: rgb(218, 16, 16); 
+ border-right: 500px;
+}
+#body{
+ background-color: rgb(51, 9, 15);
+ background-image: url("colcoletor1.jpg");
+ background-repeat: no-repeat;
+ background-size: 100%;
+}
